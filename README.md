@@ -4,7 +4,7 @@ MEAN ~ MongoDB, Express JS, Angular JS, Node JS
 
 
 ###Setup 
-1. Install Node js
+1. Install Node JS
 2. Install MongoDB
 3. npm install mongoose --save-dev
 4. npm install express --save-dev
