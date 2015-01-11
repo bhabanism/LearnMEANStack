@@ -1,5 +1,6 @@
 # LearnMEANStack
 Learn MEAN Stack 
+MEAN ~ MongoDB, Express JS, Angular JS, Node JS
 
 
 ###Setup 
